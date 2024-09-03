@@ -1,0 +1,22 @@
+C:\Users\ALEXANDER\source\repos\shop22\shop22\bin\Debug\shop22.exe.config
+C:\Users\ALEXANDER\source\repos\shop22\shop22\bin\Debug\shop22.exe
+C:\Users\ALEXANDER\source\repos\shop22\shop22\bin\Debug\shop22.pdb
+C:\Users\ALEXANDER\source\repos\shop22\shop22\obj\Debug\shop22.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\shop22\shop22\obj\Debug\shop22.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\shop22\shop22\obj\Debug\shop22.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\shop22\shop22\obj\Debug\shop22.exe
+C:\Users\ALEXANDER\source\repos\shop22\shop22\obj\Debug\shop22.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\bin\Debug\shop22.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\bin\Debug\shop22.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\bin\Debug\shop22.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\obj\Debug\shop22.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\obj\Debug\shop22.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\obj\Debug\shop22.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Shop\Discount_Shop2\shop22\obj\Debug\shop22.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\bin\Debug\shop22.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\bin\Debug\shop22.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\bin\Debug\shop22.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\obj\Debug\shop22.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\obj\Debug\shop22.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\obj\Debug\shop22.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_ConsoleApp_.NETFramework\Shop\Discount_Shop2\shop22\obj\Debug\shop22.pdb
